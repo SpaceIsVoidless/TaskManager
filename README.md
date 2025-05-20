@@ -32,7 +32,6 @@ A modern, user-friendly task management application built with React and TypeScr
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd task-manager-dashboard
 ```
 
 2. Install dependencies:
